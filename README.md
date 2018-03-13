@@ -10,7 +10,7 @@ Here is a summary of performance we obtained on both the models.
 
 | Model            | Epochs | Batch Size | Validation Accuracy |
 |------------------|--------|------------|---------------------|
-| MLP+Co-Attention | 50     | 32         | 60.32%              |
+| MLP+Co-Attention | 50     | 32         | 64.32%              |
 
 ## Requirements
 
